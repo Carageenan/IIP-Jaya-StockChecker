@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Muhammad Ihsan Erdiansyah",
+    "username": "IhsanErdi",
+    "phoneNumber": "085156513328",
+    "email": "ihsan.erdi97@gmail.com",
+    "password": "12345",
+    "role": "Admin"
+  },
+  {
+    "name": "Ade Indra Rukmana",
+    "username": "AdeIndraR",
+    "phoneNumber": "085156513328",
+    "email": "ihsan.erdi97@gmail.com",
+    "password": "12345",
+    "role": "Admin"
+  },
+  {
+    "name": "Erma Rahmawati",
+    "username": "ErmaR",
+    "phoneNumber": "085156513328",
+    "email": "ihsan.erdi97@gmail.com",
+    "password": "12345",
+    "role": "Admin"
+  },
+  {
+    "name": "Adi Rukmana",
+    "username": "AdiR",
+    "phoneNumber": "085156513328",
+    "email": "ihsan.erdi97@gmail.com",
+    "password": "12345",
+    "role": "Admin"
+  },
+  {
+    "name": "Hendar",
+    "username": "Hendar",
+    "phoneNumber": "",
+    "email": "",
+    "password": "12345",
+    "role": "User"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Daging Super",
+    "price": 100000,
+    "desc": "Daging Super"
+  },
+  {
+    "name": "Daging Iga",
+    "price": 80000,
+    "desc": "Daging Iga"
+  },
+  {
+    "name": "Daging Kepala",
+    "price": 75000,
+    "desc": "Daging Kepala"
+  },
+  {
+    "name": "Tulang Iga",
+    "price": 50000,
+    "desc": "Tulang Iga"
+  }
+]
