@@ -8,6 +8,8 @@ const { connect } = require("./config/mongodb");
 const port = process.env.PORT || 4000;
 const userRoute = require("./routes/userRoutes");
 const itemRoute = require("./routes/itemRoutes");
+const stockRoute = require("./routes/stockRoutes");
+const orderRoute = require("./routes/orderRoutes");
 
 app.use(cors());
 app.use(express.json());
@@ -19,6 +21,8 @@ app.get("/", (req, res, next) => {
 
 app.use("/users", userRoute);
 app.use("/items", itemRoute);
+app.use("/stocks", stockRoute);
+app.use("/orders", orderRoute);
 
 app.listen(port, () => {
   connect();
