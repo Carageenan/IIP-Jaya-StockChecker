@@ -3,7 +3,7 @@ const router = express.Router();
 const Controller = require("../controllers/stockController");
 const { isLogin } = require("../middlewares/auth");
 
-router.use(isLogin);
+// router.use(isLogin);
 router.get("/", Controller.getAll);
 router.get("/byName", Controller.findByName);
 router.get("/:id", Controller.findById);
